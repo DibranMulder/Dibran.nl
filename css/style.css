@@ -6,7 +6,7 @@ body {
 }
 
 #wrapper {
-    background-image: linear-gradient(to right, white , grey);
+    background-image: linear-gradient(to right,#7A6E6E, #627A69);
     border-radius: 0.625rem 0.625rem 0.625rem 0.625rem;
     box-shadow: 0rem 1.125rem 4.125rem 0rem rgba(0,0,0,0.451);
     position: fixed;
@@ -67,5 +67,5 @@ a {
 .footing {
     text-align: center;
     font-size: 0.7rem;
-    color: #757575;
+    color: black;
 }
